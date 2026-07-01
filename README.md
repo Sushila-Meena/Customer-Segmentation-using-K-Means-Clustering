@@ -116,9 +116,9 @@ Elbow Method Graph
 Correlation Heatmap
 Feature Distribution Graphs
 
-(Add screenshots of your generated graphs here.)
 
-📁 Project Structure
+
+ Project Structure
 Customer-Segmentation/
 │── dataset/
 │   └── Mall_Customers.csv
