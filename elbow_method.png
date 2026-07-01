@@ -1,5 +1,4 @@
-  Downloading to /root/.cache/kagglehub/datasets/shwetabh123/mall-customer/1.archive...
-100%|██████████| 1.56k/1.56k [00:00<00:00, 3.19MB/s]Extracting files...
+
 
 
 import seaborn as sns
@@ -33,5 +32,6 @@ plt.title('The Elbow Point Graph')
 plt.xlabel('Number of Clusters')
 plt.ylabel('WCSS')
 plt.show()
+
 
   
