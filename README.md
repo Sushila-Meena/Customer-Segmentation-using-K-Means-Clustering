@@ -116,9 +116,9 @@ Elbow Method Graph
 Correlation Heatmap
 Feature Distribution Graphs
 
-(Add screenshots of your generated graphs here.)
 
-📁 Project Structure
+
+ Project Structure
 Customer-Segmentation/
 │── dataset/
 │   └── Mall_Customers.csv
@@ -131,6 +131,9 @@ Customer-Segmentation/
 │── customer_segmentation.ipynb
 │── requirements.txt
 │── README.md
+
+
+
 Key Learnings
 Unsupervised Machine Learning
 K-Means Clustering
@@ -140,6 +143,30 @@ Exploratory Data Analysis
 Data Visualization
 Cluster Evaluation
 Business Intelligence
+
+
+ How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Sushila-Meena/Customer-Segmentation-using-K-Means-Clustering.git
+```
+
+2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the notebook
+
+```bash
+jupyter notebook
+```
+
+or open directly in **Google Colab**.
+
  Conclusion
 
 This project demonstrates how K-Means Clustering can effectively segment customers based on their purchasing behavior. The generated clusters provide valuable insights that can help businesses make data-driven marketing decisions, improve customer engagement, and optimize resource allocation.
