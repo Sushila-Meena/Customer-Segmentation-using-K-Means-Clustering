@@ -69,11 +69,17 @@ Different colors represent different customer groups.
 Cluster centroids are highlighted.
 Easy interpretation of customer segments.
 📈 Visualizations Included
-📊 Elbow Method Graph
+📊 Elbow Method Graph 
+<img width="610" height="463" alt="image" src="https://github.com/user-attachments/assets/3c1f621e-0668-422a-8f3d-7ca3212802ed" />
+
+
+
 📉 Customer Cluster Scatter Plot
 📊 Age Distribution
 📊 Annual Income Distribution
 📊 Spending Score Distribution
+<img width="705" height="710" alt="image" src="https://github.com/user-attachments/assets/91c68cf0-d358-42cd-8de0-b674ba353174" />
+
 
  Computations Performed
 Data Cleaning
